@@ -1,8 +1,54 @@
 body{
     margin: 0px;
+    font-family: 'Poppins', sans-serif;
 }
 
 
-.color{
-    background-color: red;
+.Site-header{
+    
+    height: 150px;
+   
+    
+}
+
+.custom-logo{
+    float: left;
+    margin: 0px 0px 0px 100px;
+}
+
+.site-menu{
+    float: right;
+    color: white;
+    list-style: none;
+    
+
+}
+
+.site-menu ul{
+    list-style: none;
+    margin-right: 100px;
+}
+
+.site-menu ul li {
+    float: left;
+    padding: 15px;
+    margin: 20px 20px 20px 20px;
+    display:inline-block;
+    text-decoration: none;
+    font-size: large;
+
+    
+    
+}
+
+
+.site-menu ul li a{
+    text-decoration: none;
+    color: #c84a9b;
+    text-transform: uppercase;
+    font size: 120px;
+}
+
+.site-menu ul li a:hover{
+    color: #000000;
 }
