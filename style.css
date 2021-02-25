@@ -65,5 +65,50 @@ body{
 
 
 .site-menu ul li a:hover{
-    color: #ffffff;
+    color: #fcb921;
+}
+
+
+.noorpiash{
+     float: left;
+     margin: 50px 0px 0px 100px;
+    
+}
+
+
+
+.half-width{
+    width: 50%;
+    float: left;
+   
+}
+
+
+#noorpiash{
+    color:#c84a9b; 
+    font-size: 55px;
+    margin: -35px 0px 0px 0px;
+}
+
+h3{
+    font-size:28px;
+    margin-bottom: 0px 0px 0px 0px;
+}
+
+
+#text-margin{
+    margin-top: 200px;
+   font:20px
+}
+
+
+.button{
+    float: left;
+    padding: 10px 20px;
+    background-color: #c84a9b;
+    text-decoration: none;
+    border-radius: 5px;
+    color:aliceblue
+    
+
 }
