@@ -80,6 +80,7 @@ body{
 .half-width{
     width: 45%;
     float: left;
+    height: 700px;
    
 }
 
@@ -116,4 +117,23 @@ h3{
 
 .button:hover{
     color: #000000;
+}
+
+
+.peter{
+    float: left;
+    margin-left: 200px;
+}
+
+
+h2{
+    color:#c84a9b;
+    float: left;
+    margin: 150px 0px 0px 200px;
+}
+
+p{
+    color:grey;
+    margin: 200px;
+    margin top: 5px;
 }
