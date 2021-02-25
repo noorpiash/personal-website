@@ -71,14 +71,14 @@ body{
 
 .noorpiash{
      float: left;
-     margin: 50px 0px 0px 100px;
+     margin: 50px 0px 0px 200px;
     
 }
 
 
 
 .half-width{
-    width: 50%;
+    width: 45%;
     float: left;
    
 }
@@ -97,7 +97,8 @@ h3{
 
 
 #text-margin{
-    margin-top: 200px;
+    margin-top: 300px;
+    margin-left: 190px;
    font:20px
 }
 
@@ -111,4 +112,8 @@ h3{
     color:aliceblue
     
 
+}
+
+.button:hover{
+    color: #000000;
 }
